@@ -6,3 +6,4 @@ Serverless Carrot Market Clone using NextJS, Tailwind, Prisma, PlanetScale and C
 
 > 1. npm i -D tailwindcss postcss autoprefixer
 > 2. npx tailwindcss init -p
+>    https://tailwind.build/classes
